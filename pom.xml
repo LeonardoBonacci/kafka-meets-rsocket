@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>guru.bonacci.rsocket</groupId>
-	<artifactId>tokafka</artifactId>
+	<artifactId>meets-kafka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tokafka</name>
+	<name>rsocket-meets-kafka</name>
 	<description>RSocket to Kafka</description>
 	<properties>
 		<java.version>16</java.version>
